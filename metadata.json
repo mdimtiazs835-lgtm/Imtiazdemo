@@ -1,0 +1,8 @@
+{
+  "name": "Imtiaz-Ludo Pro: Tournament Edition",
+  "description": "A premium, production-ready Ludo tournament platform featuring real-time gameplay simulation, tournament brackets, virtual wallet management, and an advanced admin dashboard. Built with React and Tailwind CSS for a high-end gaming experience.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
